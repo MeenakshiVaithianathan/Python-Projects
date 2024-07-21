@@ -11,10 +11,10 @@ Diving into Python scripts is both challenging and rewarding. Here's my attempt 
 -	Model Development: Built a random forest model to predict credit risk status, showcasing the power of machine learning in financial analysis.
 
 **Derived Insights:**
-**Demographic Distribution:** The bank has a client base with 70% male and 30% female clients, with 73% of account holders aged 20-40. This indicates a potential demographic bias towards younger males.
-**Employment and Homeownership:** 63% of clients are skilled professionals, and two-thirds are homeowners with minimal savings and moderate checking account balances.
-**Loan Characteristics:** 75% of accounts hold less than $5,000 in credit loans for 0-2 years. The primary loan purposes are purchasing cars and home appliances, followed by furniture and equipment.
-**Credit Risk:** 36% of the credit amounts are at risk, with an average loan duration of 24.9 months. Skilled professionals and homeowners are more prone to risk, with the most defaulted loans previously used for vacations, business ventures, and car purchases.
+- **Demographic Distribution:** The bank has a client base with 70% male and 30% female clients, with 73% of account holders aged 20-40. This indicates a potential demographic bias towards younger males.
+- **Employment and Homeownership:** 63% of clients are skilled professionals, and two-thirds are homeowners with minimal savings and moderate checking account balances.
+- **Loan Characteristics:** 75% of accounts hold less than $5,000 in credit loans for 0-2 years. The primary loan purposes are purchasing cars and home appliances, followed by furniture and equipment.
+- **Credit Risk:** 36% of the credit amounts are at risk, with an average loan duration of 24.9 months. Skilled professionals and homeowners are more prone to risk, with the most defaulted loans previously used for vacations, business ventures, and car purchases.
 
 **Recommendations for Improving the Credit Approval Process:**
 1. **Diversify Client Base:** Implement targeted marketing strategies to attract a more balanced demographic, including older clients and more female clients.
